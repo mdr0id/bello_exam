@@ -15,7 +15,7 @@ Implementation details:
     tests would need to be added. However since the buffers are thread safe, we have
     flexibility to implement other designs.
 
-Usage:
+Usage: python3 main.py
 
 CASE 1:
     buff = Buffer(10)
